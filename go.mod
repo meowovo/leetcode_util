@@ -1,1 +1,3 @@
-module "leetcode_util"
+module leetcode_util
+
+go 1.14
