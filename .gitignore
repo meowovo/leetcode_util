@@ -1,0 +1,12 @@
+.*.swp
+.*.swo
+
+src/vendor
+vendor
+bin
+logs
+.idea
+.vscode
+pkg
+src/t
+conf/me
